@@ -1,11 +1,11 @@
 {
-  "name": "eliApp",
-  "short_name": "eliApp",
+  "name": "Aurelia",
+  "short_name": "Aurelia",
   "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "background_color": "#2196f3",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+  "scope": "./aurelia/",
+  "start_url": "./aurelia/",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
