@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1650910227187,
+  "timestamp": 1650915701793,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -89,7 +89,7 @@
     "/assets/js/floating-wpp.min.js": "2cf0b1a575e7d8783d20766e8c6495235d90c4af",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/frente-de-camion.83acbeb717557d3e.png": "462b90571b49fcca699e84d884b70951c2e827ca",
-    "/index.html": "4d238cf46c45f6a00d47efbefc8688fd211e02c4",
+    "/index.html": "c6e9aaeb697c223357a9936a00473971ea804cc3",
     "/main.d45c3fb3dea86a41.js": "89ce0fa13621ff2e55bf4fa295e8df019c6bf7f8",
     "/manifest.webmanifest": "148ac63cc31d07a0f383ce2b2572e532912a7451",
     "/polyfills.8d66ae24f0365f74.js": "db42acc270d742cab241c485b5f200f933af70de",
