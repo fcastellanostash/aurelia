@@ -1,6 +1,6 @@
 {
-  "name": "eliApp",
-  "short_name": "eliApp",
+  "name": "Aurelia",
+  "short_name": "Aurelia",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
