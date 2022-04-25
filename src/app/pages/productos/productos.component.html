@@ -1,0 +1,25 @@
+<div class="cont">
+    <mat-divider></mat-divider>
+    <br>
+    <div fxLayout="row wrap"
+         fxLayout.xs = "row wrap"
+         fxLayoutGap = 10px
+         fxLayoutAlign="center center">
+    <div *ngFor="let producto of productos" 
+         fxFlex    = 45
+         fxFlex.lg = 15
+         fxFlex.md = 20
+         fxFlex.sm = 45
+         class="producto-card">
+         <mat-card class="example-card">
+            <img mat-card-image [src]="producto.img" alt="Iveco">
+
+            <mat-card-header>
+              <mat-card-title>{{producto.nombre}}</mat-card-title>
+              <mat-card-subtitle>{{producto.desc}}</mat-card-subtitle>
+            </mat-card-header>
+         
+          </mat-card>
+    </div>
+    </div>
+</div>

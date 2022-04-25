@@ -1,0 +1,10 @@
+<ul class="list-group">
+   
+        <li class="list-group-item"
+            *ngFor="let marcador of marcadores; let i = index"
+            [ngStyle]="{'background-color': marcador.color}"
+            (click)="irMarcador(marcador.marker!)">
+        {{ marcador.nombre }}
+        </li>
+</ul>
+<div #mapa class="map-container"></div>
