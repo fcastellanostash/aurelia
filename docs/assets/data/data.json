@@ -1,0 +1,40 @@
+[
+{
+    "id" : "001",
+    "nombre":"DAILY FURGÓN",
+    "desc":"El Daily Furgón es la nueva opción en el portfolio de IVECO convirtiéndolo en el vehículo comercial más versátil del segmento. El vehículo tiene nuevas dimensiones y capacidades con mayor distancia entre ejes y longitud total, y un centro de gravedad y maniobrabilidad mejorada. Los cambios estructurales en esta nueva versión permitieron que los utilitarios cuenten con un rango de configuraciones más amplia, desde 7,3 a 18 m³. En cuanto a la seguridad de la gama, la marca implementó la máxima tecnología disponible a nivel mundial en sistemas de asistencia de conducción para garantizar un viaje más seguro para el conductor y sus acompañantes.",
+    "img":"/assets/images/productos/001.jpg"
+},
+{
+    "id" : "002",
+    "nombre":"DAILY CHASIS",
+    "desc":"El nuevo Daily llega para revolucionar el segmento y posicionarse como un referente en su categoría, brindando una nueva experiencia en el transporte de carga.",
+    "img":"/assets/images/productos/002.jpg"
+},
+
+{
+    "id" : "003",
+    "nombre":"Tector Premium",
+    "desc":"El Iveco Tector se renueva completamente con un exterior Moderno y funcional,  este modelo cuenta con un moderno panel funcional, aire acondicionado, climatizador, nueva suspensión de cabina, cruise control, asientos con suspensión neumática, espejos eléctricos, cierre centralizado de puertas, económetro e indicador de nivel de Arnox 32, entre otras funciones.",
+    "img":"/assets/images/productos/003.jpg"
+},
+{
+    "id" : "004",
+    "nombre":"Hi Road",
+    "desc":"Nuevo Stralis HI-ROAD, más confort, modernidad y eficiencia para las rutas argentinas. Destinado al transporte de mediana y larga distancia con comprobada eficiencia en misiones de alta complejidad, como el cruce de los Andes en pleno invierno, el nuevo IVECO HI-ROAD es la renovación de un ícono. Con 2 opciones de motorización, FPT Cursor 9 y FPT Cursor 13 con potencias de 360 y 440 cv. El nuevo integrante de la gama pesada de la gran familia IVECO es el camión de las rutas argentinas, un ícono de producción nacional, de eficiencia y economía en el consumo de combustible.",
+    "img":"/assets/images/productos/004.jpg"
+},
+{
+    "id" : "001",
+    "nombre":"DAILY FURGÓN",
+    "desc":"El Daily Furgón es la nueva opción en el portfolio de IVECO convirtiéndolo en el vehículo comercial más versátil del segmento. El vehículo tiene nuevas dimensiones y capacidades con mayor distancia entre ejes y longitud total, y un centro de gravedad y maniobrabilidad mejorada. Los cambios estructurales en esta nueva versión permitieron que los utilitarios cuenten con un rango de configuraciones más amplia, desde 7,3 a 18 m³. En cuanto a la seguridad de la gama, la marca implementó la máxima tecnología disponible a nivel mundial en sistemas de asistencia de conducción para garantizar un viaje más seguro para el conductor y sus acompañantes.",
+    "img":"/assets/images/productos/001.jpg"
+},
+{
+    "id" : "002",
+    "nombre":"DAILY CHASIS",
+    "desc":"El nuevo Daily llega para revolucionar el segmento y posicionarse como un referente en su categoría, brindando una nueva experiencia en el transporte de carga.",
+    "img":"/assets/images/productos/002.jpg"
+}
+
+]

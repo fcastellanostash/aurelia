@@ -1,0 +1,119 @@
+{
+  "configVersion": 1,
+  "timestamp": 1650910227187,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.d45c3fb3dea86a41.js",
+        "/manifest.webmanifest",
+        "/polyfills.8d66ae24f0365f74.js",
+        "/runtime.87fad1f9e38fce2f.js",
+        "/styles.4569fd29d590a6ac.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/css/floating-wpp.min.css",
+        "/assets/data/data.json",
+        "/assets/data/sucursales.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/burger.svg",
+        "/assets/images/custom-settings.png",
+        "/assets/images/fake-chat.png",
+        "/assets/images/frente-de-camion.png",
+        "/assets/images/home.jpg",
+        "/assets/images/lighty.svg",
+        "/assets/images/logo.png",
+        "/assets/images/productos/001.jpg",
+        "/assets/images/productos/002.jpg",
+        "/assets/images/productos/003.jpg",
+        "/assets/images/productos/004.jpg",
+        "/assets/images/three-dots.svg",
+        "/assets/images/whatsapp.svg",
+        "/assets/js/floating-wpp.min.js",
+        "/frente-de-camion.83acbeb717557d3e.png",
+        "/three-dots.111df02d12dd0063.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/css/floating-wpp.min.css": "c75f3ba6751056b91158d430f6c6dd144fa88e13",
+    "/assets/data/data.json": "a60c0aa04f5e0e5c31be4ba607d139a19502a62c",
+    "/assets/data/sucursales.json": "addd11ee71a94c16dbf0b8d29602a0ee8fd4342c",
+    "/assets/icons/icon-128x128.png": "bf23698733376bef30d428d83f5feb9ab5e59e67",
+    "/assets/icons/icon-144x144.png": "d053049d01d6789b2c1c4353ab19bbf7c3a4c311",
+    "/assets/icons/icon-152x152.png": "2ccb6ae21c7d8bd1715e6a5dd916b3028ed58fdb",
+    "/assets/icons/icon-192x192.png": "c984c6b81005d46ca29a72d8c97f616a946ac3f4",
+    "/assets/icons/icon-384x384.png": "4e00d517a5a6d2f4df56f817ad461173926246cf",
+    "/assets/icons/icon-512x512.png": "a6cbde7ecc26f46e225be7c827b1731b85a16159",
+    "/assets/icons/icon-72x72.png": "2c87e06ac6f7a839f944a3af2c9f35b6f53c4b53",
+    "/assets/icons/icon-96x96.png": "edcb80d06ce4cdae3478a1a43ffd9ff560957245",
+    "/assets/images/burger.svg": "5662079696482a60ac65b1883c94cccbef020c40",
+    "/assets/images/custom-settings.png": "275a7924d3a60eb85b61a9296eaf04133c054e6a",
+    "/assets/images/fake-chat.png": "b479e90b51ef722cce15e88a901ea98f270a5498",
+    "/assets/images/frente-de-camion.png": "462b90571b49fcca699e84d884b70951c2e827ca",
+    "/assets/images/home.jpg": "56ae80500d7e58e0f66feb22d0f4c07d04ccf53e",
+    "/assets/images/lighty.svg": "9dde09b758705f4d6a707b63feefab2b69da1fb0",
+    "/assets/images/logo.png": "42b1b89a75532ac5187720f11e4888f083e3d64b",
+    "/assets/images/productos/001.jpg": "2c91e958740a616c0b1c29e4d461e3dd48d6d77e",
+    "/assets/images/productos/002.jpg": "b19dd4acc76be57769fb876c45e155db4234f6b7",
+    "/assets/images/productos/003.jpg": "769f9e688fbc3633ae09fbd64ed07f10e434410e",
+    "/assets/images/productos/004.jpg": "db74bb8ac301a58ee33ae0419c909416d294a39d",
+    "/assets/images/three-dots.svg": "b638e975a151ce064cd63d5e155228a280ca6f84",
+    "/assets/images/whatsapp.svg": "961a26e67ce70bac1910bf212f6c0b138e398c0c",
+    "/assets/js/floating-wpp.min.js": "2cf0b1a575e7d8783d20766e8c6495235d90c4af",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/frente-de-camion.83acbeb717557d3e.png": "462b90571b49fcca699e84d884b70951c2e827ca",
+    "/index.html": "4d238cf46c45f6a00d47efbefc8688fd211e02c4",
+    "/main.d45c3fb3dea86a41.js": "89ce0fa13621ff2e55bf4fa295e8df019c6bf7f8",
+    "/manifest.webmanifest": "148ac63cc31d07a0f383ce2b2572e532912a7451",
+    "/polyfills.8d66ae24f0365f74.js": "db42acc270d742cab241c485b5f200f933af70de",
+    "/runtime.87fad1f9e38fce2f.js": "652921856784424cd211581a74062fb1be88c9e4",
+    "/styles.4569fd29d590a6ac.css": "56019ffd7ebb344a99c364a7f81ccdd9ecfba290",
+    "/three-dots.111df02d12dd0063.svg": "b638e975a151ce064cd63d5e155228a280ca6f84"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
