@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1650915701793,
+  "timestamp": 1650916608853,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.d45c3fb3dea86a41.js",
+        "/main.79228a390bd40e42.js",
         "/manifest.webmanifest",
         "/polyfills.8d66ae24f0365f74.js",
         "/runtime.87fad1f9e38fce2f.js",
@@ -89,8 +89,8 @@
     "/assets/js/floating-wpp.min.js": "2cf0b1a575e7d8783d20766e8c6495235d90c4af",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/frente-de-camion.83acbeb717557d3e.png": "462b90571b49fcca699e84d884b70951c2e827ca",
-    "/index.html": "c6e9aaeb697c223357a9936a00473971ea804cc3",
-    "/main.d45c3fb3dea86a41.js": "89ce0fa13621ff2e55bf4fa295e8df019c6bf7f8",
+    "/index.html": "8b0e23b7ff19608938b921f2007b19f5d379615f",
+    "/main.79228a390bd40e42.js": "450dc77b0d2f40a579e87a01aaf8cbadf42d9296",
     "/manifest.webmanifest": "148ac63cc31d07a0f383ce2b2572e532912a7451",
     "/polyfills.8d66ae24f0365f74.js": "db42acc270d742cab241c485b5f200f933af70de",
     "/runtime.87fad1f9e38fce2f.js": "652921856784424cd211581a74062fb1be88c9e4",
