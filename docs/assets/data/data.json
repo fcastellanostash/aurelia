@@ -3,13 +3,13 @@
     "id" : "001",
     "nombre":"DAILY FURGÓN",
     "desc":"El Daily Furgón es la nueva opción en el portfolio de IVECO convirtiéndolo en el vehículo comercial más versátil del segmento. El vehículo tiene nuevas dimensiones y capacidades con mayor distancia entre ejes y longitud total, y un centro de gravedad y maniobrabilidad mejorada. Los cambios estructurales en esta nueva versión permitieron que los utilitarios cuenten con un rango de configuraciones más amplia, desde 7,3 a 18 m³. En cuanto a la seguridad de la gama, la marca implementó la máxima tecnología disponible a nivel mundial en sistemas de asistencia de conducción para garantizar un viaje más seguro para el conductor y sus acompañantes.",
-    "img":"/assets/images/productos/001.jpg"
+    "img":"./assets/images/productos/001.jpg"
 },
 {
     "id" : "002",
     "nombre":"DAILY CHASIS",
     "desc":"El nuevo Daily llega para revolucionar el segmento y posicionarse como un referente en su categoría, brindando una nueva experiencia en el transporte de carga.",
-    "img":"/assets/images/productos/002.jpg"
+    "img":"./assets/images/productos/002.jpg"
 },
 
 {
